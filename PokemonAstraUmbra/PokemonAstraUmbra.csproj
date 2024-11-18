@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="Dalamud.Plugin.Bootstrap.targets"/>
+
+    <PropertyGroup>
+        <Authors>rekyuu</Authors>
+        <Company>rekyuu</Company>
+        <Version>1.0.0.0</Version>
+        <Description>A Pokemon adventure in FFXIV!</Description>
+        <Copyright>rekyuu</Copyright>
+        <PackageProjectUrl>https://github.com/rekyuu/PokemonAstraUmbra</PackageProjectUrl>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <NoWarn>CA1416</NoWarn> <!-- Validate platform compatibility -->
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PokemonAstraUmbra.Core\PokemonAstraUmbra.Core.csproj" />
+    </ItemGroup>
+</Project>

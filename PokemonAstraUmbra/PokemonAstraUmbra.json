@@ -1,0 +1,15 @@
+{
+  "Author": "rekyuu",
+  "Name": "Pokemon Astra and Umbra",
+  "RepoUrl": "https://github.com/rekyuu/PokemonAstraUmbra",
+  "Punchline": "A Pokemon adventure in FFXIV!",
+  "Description": "it pokemon :) hehe",
+  "InternalName": "PokemonAstraUmbra",
+  "DalamudApiLevel": 11,
+  "AssemblyVersion": "any",
+  "ApplicableVersion": "any",
+  "IconUrl": "https://raw.githubusercontent.com/rekyuu/PokemonAstraUmbra/main/images/icon.png",
+  "Tags": [
+    "pokemon"
+  ]
+}
